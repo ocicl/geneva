@@ -1,0 +1,10 @@
+* geneva
+
+Geneva: portable document preparation system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/inters/geneva.git   |
+| commit  | 126d330  |
+| systems | geneva |
+|---------+-------------------------------------------|
+
